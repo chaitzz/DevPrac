@@ -2,7 +2,7 @@
 /* This is my Comment */
 /* MIne */
 /* Changing to pull*/
-/*comment*/
+/* comment*/
 pipeline {
   agent any
 
